@@ -20,7 +20,7 @@
 > **Birkaç yüz TL'lik ESP32 ile Flipper Zero benzeri offensive security araçları.**
 > Kendi ağlarında, yetkili testler için.
 
-![Evil Portal Demo](images/evil_portal.jpg)
+
 
 </div>
 
